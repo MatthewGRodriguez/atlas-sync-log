@@ -1,0 +1,15 @@
+{
+ "v": 2,
+ "atlas": "demo",
+ "writer": "MatthewGRodriguez",
+ "seq": 3,
+ "ts": 1793678213820,
+ "createdAt": "2026-11-03T03:56:53.820Z",
+ "ops": [
+  {
+   "op": "add",
+   "path": "items/i1/notes",
+   "value": "Ok"
+  }
+ ]
+}
